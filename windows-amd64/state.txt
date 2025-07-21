@@ -1,0 +1,9 @@
+help
+10
+120.0
+1.0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-=!@#$%^&*()_+[];',./{}:<>?`~
+-16711936
+-16777216
+8.0
+Welcome\nAnonymous User\nType help then press enter to view help\nUse title <YourTitle> to change this screen

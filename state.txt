@@ -1,0 +1,9 @@
+cls
+8
+120.0
+1.0
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-=!@#$%^&*()_+[];',./{}:<>?`~
+-16711936
+-16777216
+10.0
+Welcome\nAlimad Corporations
