@@ -1,9 +1,9 @@
-music test.mp3
-8
+help
+10
 120.0
 1.0
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-=!@#$%^&*()_+[];',./{}:<>?`~
 -16711936
 -16777216
-10.0
-Welcome\nAlimad Corporations
+8.0
+Welcome\nAnonymous User\nType help then press enter for help\nDo title <YourTitle> to change this screen
