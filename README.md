@@ -13,7 +13,9 @@ If you dont have Java 17 or above, download from https://www.eclipse.org/downloa
 
 ## Compile Manually
 > Step 1: Get processing (https://processing.org/download)
+> 
 > Step 2: Clone the repository
+> 
 > Step 3: Open the Matrix.pde in processing
 
 Note: If processing gives an error, try creating a new sketch, then copy paste the contents of the file into it, then save the sketch at the same location as the repo (overwrite). 
