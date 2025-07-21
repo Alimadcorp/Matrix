@@ -4,7 +4,7 @@ The Matrix CLI
 ### A beautiful command line interface with a matrix rainfall background.
 Fully functional, embeds a powershell thread (yes, so only windows support).
 ### Prerequisites: Java 17 or above
-If you dont have Java 17 or above, download from  or use the "with java" build
+If you dont have Java 17 or above, download from https://www.eclipse.org/downloads or use the "with java" build
 
 # How to use
 ## Direct Download
