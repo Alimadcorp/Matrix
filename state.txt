@@ -1,4 +1,4 @@
-cls
+music test.mp3
 8
 120.0
 1.0

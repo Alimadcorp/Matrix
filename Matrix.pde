@@ -465,8 +465,6 @@ void drawFallingCharacters() {
   float level = (amp != null) ? amp.analyze() : 0;
   if (amp != null) detectBeat(level);
   if (fft != null) fft.analyze();
-
-  // Normalize and smooth FFT
   if (fft != null) {
     float maxVal = 0;
     for (int i = 0; i < fft.spectrum.length; i++) {
@@ -495,7 +493,7 @@ void drawFallingCharacters() {
       if (r2[i] > h + 2) r2[i] = playMode ? -10000000 : 0;
 
       if (fft != null && music != null && music.isPlaying()) {
-        int bandIndex = int(map(i, 0, w, 0, fft.spectrum.length - 40));
+        int bandIndex = int(map(i, 0, w, 0, fft.spectrum.length - 50));
         energy = fft.spectrum[bandIndex];
         float mapped = constrain(energy * height, 0, height) / 14;
         raindrops[i] = h - mapped;
